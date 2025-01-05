@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derBonsai
-- 👀 I’m interested in open source
+- 👀 I’m interested in open source, design systems, design token
 - 🌱 I’m currently learning penpot
 - 💞️ I’m looking to collaborate on ux/ui
 
